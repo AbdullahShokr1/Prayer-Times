@@ -1,0 +1,12 @@
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\bin\Release\The Aars.exe.config
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\bin\Release\The Aars.exe
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\bin\Release\The Aars.pdb
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\bin\Release\ar-EG\The Aars.resources.dll
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\obj\Release\The_Aars.Form1.resources
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\obj\Release\The_Aars.Properties.Resources.resources
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\obj\Release\The_Aars.Form1.ar-EG.resources
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\obj\Release\The Aars.csproj.GenerateResource.cache
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\obj\Release\The Aars.csproj.CoreCompileInputs.cache
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\obj\Release\ar-EG\The Aars.resources.dll
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\obj\Release\The Aars.exe
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\obj\Release\The Aars.pdb

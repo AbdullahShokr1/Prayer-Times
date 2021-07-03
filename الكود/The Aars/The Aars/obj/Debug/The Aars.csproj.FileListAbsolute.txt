@@ -1,0 +1,17 @@
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\bin\Debug\The Aars.exe.config
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\bin\Debug\The Aars.exe
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\bin\Debug\The Aars.pdb
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\obj\Debug\The Aars.csprojAssemblyReference.cache
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\obj\Debug\The_Aars.Form1.resources
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\obj\Debug\The_Aars.Properties.Resources.resources
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\obj\Debug\The Aars.csproj.GenerateResource.cache
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\obj\Debug\The Aars.csproj.CoreCompileInputs.cache
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\obj\Debug\The Aars.exe
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\obj\Debug\The Aars.pdb
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\bin\Debug\ar-EG\The Aars.resources.dll
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\obj\Debug\The_Aars.Form1.ar-EG.resources
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\obj\Debug\ar-EG\The Aars.resources.dll
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\bin\Debug\The Aars.exe.manifest
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\bin\Debug\The Aars.application
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\obj\Debug\The Aars.exe.manifest
+F:\University\لغة برمجة  C#\OOP\The Aars\The Aars\obj\Debug\The Aars.application
